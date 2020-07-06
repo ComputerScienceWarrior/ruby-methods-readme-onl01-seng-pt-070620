@@ -25,5 +25,3 @@ def puts_phrase
   puts phrase
 end
 
-puts puts_phrase
-
