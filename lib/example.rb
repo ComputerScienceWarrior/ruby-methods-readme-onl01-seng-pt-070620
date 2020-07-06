@@ -15,5 +15,13 @@ puts phrase
 def puts_phrase
   puts phrase
   puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
 end
 
